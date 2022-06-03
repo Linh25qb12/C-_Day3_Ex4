@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.exe
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.deps.json
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.runtimeconfig.json
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.dll
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\bin\Debug\netcoreapp3.1\Day3-Ex4.pdb
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.dll
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.pdb
+C:\Users\ASUS\source\repos\Day3-Ex4\Day3-Ex4\obj\Debug\netcoreapp3.1\Day3-Ex4.genruntimeconfig.cache
